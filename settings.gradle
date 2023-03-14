@@ -1,0 +1,4 @@
+rootProject.name = "NV SDK"
+include ':verification'
+include ':data'
+include ':domain'
